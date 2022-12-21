@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Akashcitrusbug/NodeLearning#readme",
   "dependencies": {
     "chalk": "^2.4.1",
+    "express": "^4.16.4",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2",
     "validator": "^13.7.0",
